@@ -1,0 +1,9 @@
+Krakow 0
+Białystok 500
+BielskoBiała 50
+Chrzanów 400
+Gdańsk 200
+Gdynia 100
+Gliwice 40
+Gromnik 200
+Katowice 300
